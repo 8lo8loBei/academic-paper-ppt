@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术论文分享 PPT"
+  short_description: "把论文整理成有原图证据、清晰版式和可直接口讲备注的学术分享"
+  default_prompt: "用 $academic-paper-ppt 把这篇论文做成适合组会的 PowerPoint，润色封面并写逐页讲稿。"
